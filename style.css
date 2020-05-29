@@ -1,0 +1,21 @@
+body {
+    background-color: darkslategray;
+    color: rgb(255, 255, 255);
+}
+
+.IAmAClass {
+    background-image: url('https://hellodoktor.com/wp-content/uploads/2017/03/travel-1.jpg');
+    background-repeat: no-repeat;
+    height: 875px;
+    background-size: cover;
+}
+.tap-here {
+    height: 50px;
+    width: 75px;
+    transform: translate(665px, 250px)
+}
+.tap-here-next {
+    height: 50px;
+    width: 105px;
+    transform: translate(560px, 320px)
+}
